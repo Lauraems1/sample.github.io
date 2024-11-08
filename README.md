@@ -1,4 +1,4 @@
-# Create a React App and Use of Formik
+# Create a React App & Use of Formik
 
 This project was to construct a basic form, allowing the user to submit its email address and password. Some alarms are shown if the user does not enter the data or does not enter his/her email address with a proper email address structure.
 
